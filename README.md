@@ -1,67 +1,56 @@
-# 🗣️ NLP Text Classifier
+# ⚙️ Python Automation Toolkit
 
 [![Python](https://img.shields.io/badge/Python-3.9+-3776AB?style=flat&logo=python&logoColor=white)](https://python.org)
 [![Streamlit](https://img.shields.io/badge/Streamlit-1.32-FF4B4B?style=flat&logo=streamlit&logoColor=white)](https://streamlit.io)
-[![NLP](https://img.shields.io/badge/NLP-Text_Analysis-00FFD4?style=flat)](https://github.com/kinjal-jayswal)
+[![Automation](https://img.shields.io/badge/Automation-5_Tools-00FFD4?style=flat)](https://github.com/kinjal-jayswal)
 [![License](https://img.shields.io/badge/License-MIT-green?style=flat)](LICENSE)
 
 > **Built by [JK Data Lab](https://www.jkdatalab.com) | AI & Data Science Consulting**
 
-A production-ready **NLP text classification and sentiment analysis** web app. Supports single text and batch analysis with beautiful visualizations. Works without any API key!
+A comprehensive **Python automation toolkit** with 5 interactive demo tools — web scraping, ETL pipelines, file organization, report generation, and email automation.
 
 ---
 
-## 🎯 Features
+## 🎯 5 Automation Tools
 
-- 😊 **Sentiment Analysis** — Positive, Negative, Neutral detection
-- 🏷️ **Text Classification** — Technology, Business, Support, Feedback, General
-- 🔑 **Key Phrase Extraction** — Top keywords from text
-- 📊 **Sentiment Gauge** — Visual confidence score
-- 📦 **Batch Analysis** — Analyze multiple texts at once
-- 📈 **Visual Analytics** — Charts for sentiment and category distribution
-- 🎯 **No API Key Required** — Works completely offline
+| Tool | Description |
+|------|-------------|
+| 🌐 **Web Scraper** | Scrape products, jobs, news from any website |
+| 🔄 **ETL Pipeline** | Extract → Transform → Load with validation |
+| 📁 **File Organizer** | Auto-organize files by type, date, or rules |
+| 📊 **Report Generator** | Auto-generate PDF/Excel/HTML reports |
+| 📧 **Email Automation** | Bulk emails with personalization |
 
 ---
 
 ## 🚀 Quick Start
 
 ```bash
-git clone https://github.com/kinjal-jayswal/nlp-text-classifier.git
-cd nlp-text-classifier
+git clone https://github.com/kinjal-jayswal/python-automation-toolkit.git
+cd python-automation-toolkit
 pip install -r requirements.txt
 streamlit run app.py
 ```
 
 ---
 
-## 🛠️ Tech Stack
+## 💼 Real-World Use Cases
 
-| Component | Technology |
-|-----------|-----------|
-| **Frontend** | Streamlit |
-| **Charts** | Plotly |
-| **Data Processing** | Pandas + NumPy |
-| **NLP Engine** | Custom Python NLP |
-
----
-
-## 💼 Use Cases
-
-- 📧 **Email Classification** — Auto-categorize support emails
-- ⭐ **Review Analysis** — Analyze customer feedback at scale
-- 📱 **Social Media Monitoring** — Track brand sentiment
-- 🎯 **Lead Scoring** — Classify incoming inquiries
-- 📊 **Survey Analysis** — Process open-ended responses
+- 🛒 **E-commerce**: Scrape competitor prices daily
+- 📊 **Analytics**: Auto-generate weekly client reports
+- 🗂️ **Operations**: Organize thousands of files automatically
+- 📧 **Marketing**: Send personalized email campaigns
+- 🔄 **Data Engineering**: Build ETL pipelines for data warehouses
 
 ---
 
-## 🤝 Custom Development
+## 🤝 Custom Automation Solutions
 
-Need enterprise NLP solutions? JK Data Lab builds:
-- BERT/Transformer-based classifiers
-- Multi-language sentiment analysis
-- Custom entity recognition (NER)
-- Real-time text processing pipelines
+Need custom automation for your business? JK Data Lab builds:
+- Production web scrapers with proxy rotation
+- Scheduled ETL pipelines with error handling
+- Automated reporting systems
+- Email marketing automation
 
 **📧 Contact: kinjal@jkdatalab.com**
 **🌐 Website: [www.jkdatalab.com](https://www.jkdatalab.com)**
